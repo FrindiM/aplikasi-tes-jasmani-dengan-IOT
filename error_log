@@ -1,0 +1,43 @@
+[26-Feb-2024 16:54:22 Asia/Jakarta] PHP Warning:  Undefined array key "api_key" in /home1/werislin/bbi.weris.link/connect.php on line 27
+[26-Feb-2024 16:54:22 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/werislin/bbi.weris.link/connect.php on line 99
+[26-Feb-2024 16:54:31 Asia/Jakarta] PHP Warning:  Undefined array key "api_key" in /home1/werislin/bbi.weris.link/connect.php on line 27
+[26-Feb-2024 16:54:31 Asia/Jakarta] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home1/werislin/bbi.weris.link/connect.php on line 99
+[26-Feb-2024 16:56:59 Asia/Jakarta] PHP Warning:  Undefined array key "tag_id" in /home1/werislin/bbi.weris.link/page/sset.php on line 35
+[26-Feb-2024 16:56:59 Asia/Jakarta] PHP Warning:  Undefined array key "tag_id" in /home1/werislin/bbi.weris.link/page/sset.php on line 49
+[26-Feb-2024 16:57:12 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'tag_id' in 'where clause' in /home1/werislin/bbi.weris.link/ledit.php:25
+Stack trace:
+#0 /home1/werislin/bbi.weris.link/ledit.php(25): mysqli_query()
+#1 {main}
+  thrown in /home1/werislin/bbi.weris.link/ledit.php on line 25
+[26-Feb-2024 16:57:17 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'tag_id' in 'where clause' in /home1/werislin/bbi.weris.link/ledit.php:25
+Stack trace:
+#0 /home1/werislin/bbi.weris.link/ledit.php(25): mysqli_query()
+#1 {main}
+  thrown in /home1/werislin/bbi.weris.link/ledit.php on line 25
+[26-Feb-2024 16:57:20 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'tag_id' in 'where clause' in /home1/werislin/bbi.weris.link/ledit.php:25
+Stack trace:
+#0 /home1/werislin/bbi.weris.link/ledit.php(25): mysqli_query()
+#1 {main}
+  thrown in /home1/werislin/bbi.weris.link/ledit.php on line 25
+[26-Feb-2024 17:24:26 Asia/Jakarta] PHP Warning:  Undefined array key "tag_id" in /home1/werislin/bbi.weris.link/page/sset.php on line 35
+[26-Feb-2024 17:24:26 Asia/Jakarta] PHP Warning:  Undefined array key "tag_id" in /home1/werislin/bbi.weris.link/page/sset.php on line 49
+[26-Feb-2024 17:24:29 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'tag_id' in 'where clause' in /home1/werislin/bbi.weris.link/ledit.php:25
+Stack trace:
+#0 /home1/werislin/bbi.weris.link/ledit.php(25): mysqli_query()
+#1 {main}
+  thrown in /home1/werislin/bbi.weris.link/ledit.php on line 25
+[26-Feb-2024 17:24:36 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'tag_id' in 'where clause' in /home1/werislin/bbi.weris.link/ledit.php:25
+Stack trace:
+#0 /home1/werislin/bbi.weris.link/ledit.php(25): mysqli_query()
+#1 {main}
+  thrown in /home1/werislin/bbi.weris.link/ledit.php on line 25
+[26-Feb-2024 17:24:47 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'tag_id' in 'where clause' in /home1/werislin/bbi.weris.link/ledit.php:25
+Stack trace:
+#0 /home1/werislin/bbi.weris.link/ledit.php(25): mysqli_query()
+#1 {main}
+  thrown in /home1/werislin/bbi.weris.link/ledit.php on line 25
+[26-Feb-2024 17:24:57 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'tag_id' in 'where clause' in /home1/werislin/bbi.weris.link/ledit.php:25
+Stack trace:
+#0 /home1/werislin/bbi.weris.link/ledit.php(25): mysqli_query()
+#1 {main}
+  thrown in /home1/werislin/bbi.weris.link/ledit.php on line 25
